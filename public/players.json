@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "player_image": "https://i.ibb.co.com/Kp7fHQMh/shakib.jpg",
+    "player_name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "playing_style": "All-rounder",
+    "rating": 9.2,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_prize": "3000000"
+  },
+  {
+    "id": 2,
+    "player_image": "https://i.ibb.co.com/s9RpwTBw/tamim.jpg",
+    "player_name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "playing_style": "Opening Batsman",
+    "rating": 8.7,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "N/A",
+    "player_prize": "2200000"
+  },
+  {
+    "id": 3,
+    "player_image": "https://i.ibb.co.com/WNqh9Sgj/mustafiz.webp",
+    "player_name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "playing_style": "Fast Bowler",
+    "rating": 8.5,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Left-arm fast-medium",
+    "player_prize": "1800000"
+  },
+  {
+    "id": 4,
+    "player_image": "https://i.ibb.co.com/BVhx93Hh/mushfiq.jpg",
+    "player_name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "playing_style": "Wicketkeeper Batsman",
+    "rating": 8.4,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "N/A",
+    "player_prize": "1900000"
+  },
+  {
+    "id": 5,
+    "player_image": "https://i.ibb.co.com/rKbgxf2W/riyad.webp",
+    "player_name": "Mahmudullah Riyad",
+    "country": "Bangladesh",
+    "playing_style": "Middle-order Batsman",
+    "rating": 8.0,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "player_prize": "1500000"
+  },
+  {
+    "id": 6,
+    "player_image": "https://i.ibb.co.com/0RydZt4w/afif.webp",
+    "player_name": "Afif Hossain",
+    "country": "Bangladesh",
+    "playing_style": "All-rounder",
+    "rating": 7.8,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "player_prize": "1000000"
+  },
+  {
+    "id": 7,
+    "player_image": "https://i.ibb.co.com/p6trrFt9/liton.webp",
+    "player_name": "Liton Das",
+    "country": "Bangladesh",
+    "playing_style": "Opening Batsman",
+    "rating": 8.1,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "N/A",
+    "player_prize": "1300000"
+  },
+  {
+    "id": 8,
+    "player_image": "https://i.ibb.co.com/1Szfv4M/gyle.webp",
+    "player_name": "Chris Gayle",
+    "country": "West Indies",
+    "playing_style": "Power Hitter",
+    "rating": 9.0,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "player_prize": "2500000"
+  },
+  {
+    "id": 9,
+    "player_image": "https://i.ibb.co.com/WvBVpfKB/russel.jpg",
+    "player_name": "Andre Russell",
+    "country": "West Indies",
+    "playing_style": "All-rounder",
+    "rating": 8.8,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "player_prize": "2400000"
+  },
+  {
+    "id": 10,
+    "player_image": "https://i.ibb.co.com/7JNNfCtR/faf.webp",
+    "player_name": "Faf du Plessis",
+    "country": "South Africa",
+    "playing_style": "Top-order Batsman",
+    "rating": 8.6,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Legbreak",
+    "player_prize": "2300000"
+  },
+  {
+    "id": 11,
+    "player_image": "https://i.ibb.co.com/TxZB4J3R/rashid.webp",
+    "player_name": "Rashid Khan",
+    "country": "Afghanistan",
+    "playing_style": "Leg-spin All-rounder",
+    "rating": 9.1,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Legbreak googly",
+    "player_prize": "2700000"
+  },
+  {
+    "id": 12,
+    "player_image": "https://i.ibb.co.com/k2cxrSxk/narine.jpg",
+    "player_name": "Sunil Narine",
+    "country": "West Indies",
+    "playing_style": "Spinner All-rounder",
+    "rating": 8.3,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "player_prize": "2000000"
+  }
+]
