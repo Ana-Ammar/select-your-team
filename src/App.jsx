@@ -4,6 +4,7 @@ import AvailablePlayers from "./components/AvailablePlayers/AvailablePlayers";
 import Navbar from "./components/Navbar/Navbar";
 import SelectedPlayers from "./components/SelectedPlayers/SelectedPlayers";
 import { ToastContainer } from 'react-toastify';
+import Banner from "./components/Banner/Banner";
 
 const fetchPlayers = async () => {
   const res = await fetch("/players.json");
@@ -29,6 +30,8 @@ const removeBtnHandle = (deletedPlayer) => {
     <>
       <Navbar availableBalance={availableBalance}></Navbar>
 
+      {/* Banner */}
+      <Banner></Banner>
       {/* Toggling Section */}
 
       <div className="max-w-[1280px] mx-auto flex justify-between items-center md:p-0 px-6">
