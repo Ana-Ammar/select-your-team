@@ -8,7 +8,7 @@
     "rating": 9.2,
     "batting_style": "Left-hand bat",
     "bowling_style": "Slow left-arm orthodox",
-    "player_prize": "3000000"
+    "player_prize": "3,000,000"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "rating": 8.7,
     "batting_style": "Left-hand bat",
     "bowling_style": "N/A",
-    "player_prize": "2200000"
+    "player_prize": "2,200,000"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "rating": 8.5,
     "batting_style": "Right-hand bat",
     "bowling_style": "Left-arm fast-medium",
-    "player_prize": "1800000"
+    "player_prize": "1,800,000"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
     "rating": 8.4,
     "batting_style": "Right-hand bat",
     "bowling_style": "N/A",
-    "player_prize": "1900000"
+    "player_prize": "1,900,000"
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@
     "rating": 8.0,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "player_prize": "1500000"
+    "player_prize": "1,500,000"
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
     "rating": 7.8,
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "player_prize": "1000000"
+    "player_prize": "1,000,000"
   },
   {
     "id": 7,
@@ -74,7 +74,7 @@
     "rating": 8.1,
     "batting_style": "Right-hand bat",
     "bowling_style": "N/A",
-    "player_prize": "1300000"
+    "player_prize": "1,300,000"
   },
   {
     "id": 8,
@@ -85,7 +85,7 @@
     "rating": 9.0,
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "player_prize": "2500000"
+    "player_prize": "2,500,000"
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@
     "rating": 8.8,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm fast",
-    "player_prize": "2400000"
+    "player_prize": "2,400,000"
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
     "rating": 8.6,
     "batting_style": "Right-hand bat",
     "bowling_style": "Legbreak",
-    "player_prize": "2300000"
+    "player_prize": "2,300,000"
   },
   {
     "id": 11,
@@ -118,7 +118,7 @@
     "rating": 9.1,
     "batting_style": "Right-hand bat",
     "bowling_style": "Legbreak googly",
-    "player_prize": "2700000"
+    "player_prize": "2,700,000"
   },
   {
     "id": 12,
@@ -129,6 +129,6 @@
     "rating": 8.3,
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "player_prize": "2000000"
+    "player_prize": "2,000,000"
   }
 ]
