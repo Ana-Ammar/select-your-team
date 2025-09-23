@@ -1,11 +1,11 @@
-import React, { useState } from 'react';
 import userImg from "../../assets/user.png"
 import countryImg from '../../assets/country.png'
 import { toast } from 'react-toastify';
 
 const PlayerCard = ({player, setAvailableBalance, availableBalance, purchasedPlayers, setPurchasedPlayers}) => {
-    const [isSelected, setSelected] = useState(false)
-
+    
+   const exist = purchasedPlayers.find(p => p.id === player.id)
+   
     const handleSelectBtn = (player) => {
         const playerPrice = parseInt(player.player_prize.split(',').join(''))
         if (availableBalance < playerPrice) {
@@ -16,7 +16,6 @@ const PlayerCard = ({player, setAvailableBalance, availableBalance, purchasedPla
             toast('6 Player already selected!')
             return
         }
-        setSelected(true)
         setAvailableBalance(availableBalance - playerPrice)
         setPurchasedPlayers([...purchasedPlayers, player])
     }
@@ -58,7 +57,7 @@ const PlayerCard = ({player, setAvailableBalance, availableBalance, purchasedPla
 
         <div className="flex justify-between items-center my-4">
             <p className="font-semibold">Price: BDT {player.player_prize} </p>
-            <button disabled={isSelected} onClick={() => handleSelectBtn(player)} className="btn btn-md h-9 bg-white rounded-[8px]">{isSelected ? 'Selected' : 'Choose Player'}</button>
+            <button disabled={exist} onClick={() => handleSelectBtn(player)} className="btn btn-md h-9 bg-white rounded-[8px]">{exist ? 'Selected' : 'Choose Player'}</button>
         </div>      
        </div>
       </div>

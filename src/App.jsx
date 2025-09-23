@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar/Navbar";
 import SelectedPlayers from "./components/SelectedPlayers/SelectedPlayers";
 import { ToastContainer } from 'react-toastify';
 import Banner from "./components/Banner/Banner";
+import Footer from "./components/Footer/Footer";
 
 const fetchPlayers = async () => {
   const res = await fetch("/players.json");
@@ -75,6 +76,8 @@ const removeBtnHandle = (deletedPlayer) => {
           setToggle={setToggle}></SelectedPlayers>
         )}
       </Suspense>
+
+      <Footer></Footer>
 
       <ToastContainer />
     </>
